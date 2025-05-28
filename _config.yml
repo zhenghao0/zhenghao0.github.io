@@ -4,18 +4,18 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hao
-middle_name: 
+middle_name:
 last_name: Zheng
 zh_name: 郑浩
 contact_note: >
- Stay curious, keep pushing boundaries, and never stop learning—greatness lies just beyond your comfort zone.
+  Stay curious, keep pushing boundaries, and never stop learning—greatness lies just beyond your comfort zone.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hao Zheng's Homepage
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords:  academic-website # add your own keywords or leave empty
+keywords: academic-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -157,7 +157,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false

@@ -2,11 +2,14 @@
 layout: default
 ---
 <div class="post">
- <header class="post-header d-flex align-items-center">
+  <header class="post-header d-flex align-items-center">
     <div style="flex: 1;">
       <h1 class="post-title">
         {% if site.title == 'blank' %}
-          <span class="font-weight-bold">{{ site.first_name }} {{ site.last_name }} | {{ site.zh_name }}</span>
+          <span class="font-weight-bold">
+            {{- site.first_name }}
+            {{ site.last_name }} | {{ site.zh_name -}}
+          </span>
         {% else %}
           {{ site.title }}
         {% endif %}
@@ -16,22 +19,20 @@ layout: default
     {% if page.profile and page.profile.image %}
       <div class="profile-header float-right">
         {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-        <img 
-          src="{{ profile_image_path }}" 
+        <img
+          src="{{ profile_image_path }}"
           alt="Profile Image"
           class="img-fluid z-depth-1 rounded"
           style="max-width: 320px; height: auto;"
-        />
+        >
       </div>
     {% endif %}
   </header>
-  
+
   <hr>
 
   <article>
-    <h2>
-        About Me
-    </h2>
+    <h2>About Me</h2>
     <div class="clearfix">{{ content }}</div>
     <hr>
 
@@ -50,7 +51,7 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
-   <hr>
+    <hr>
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
