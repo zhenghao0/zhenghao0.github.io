@@ -24,6 +24,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m Hao Zheng, a fourth-year Ph.D. student in the School of Computer Science and Engineering at Central South University, supervised by Prof. Zhigang Hu. Currently, I’m also a visiting researcher at Western University, where I work under the guidance of Prof. <a href='https://sites.google.com/site/borriewang/'>Boyu Wang</a> and Prof. <a href='https://www.csd.uwo.ca/~xling/'>Charles Ling</a>. My research interests lie in Personalized Federated Learning and Multi-feature Fusion.
+Hello! I’m Hao Zheng, a fourth-year Ph.D. student in the School of Computer Science and Engineering at Central South University, supervised by Prof. Zhigang Hu. Currently, I’m also a visiting researcher at Western University, where I work under the guidance of Prof. <a href='https://sites.google.com/site/borriewang/'>Boyu Wang</a> and Prof. <a href='https://www.csd.uwo.ca/~xling/'>Charles Ling</a>. My research interests lie in Optimization for Personalized Federated Learning, and Deep Learning & Computer Vision in Remote Sensing.
 
 Before starting my Ph.D., I completed my Master’s degree at Central South University in 2021 and earned my Bachelor’s degree at Taiyuan University of Technology in 2018.
+
+I’m currently looking for postdoctoral opportunities where I can continue exploring exciting problems in machine learning. I’d love to bring my experience in federated learning, CV in remote sensing, and interdisciplinary research to a new team working on impactful projects.
