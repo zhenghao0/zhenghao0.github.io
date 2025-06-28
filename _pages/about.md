@@ -28,4 +28,5 @@ Hello! I’m Hao Zheng, a fourth-year Ph.D. student in the School of Computer Sc
 
 Before starting my Ph.D., I completed my Master’s degree at Central South University in 2021 and earned my Bachelor’s degree at Taiyuan University of Technology in 2018.
 
-I’m currently looking for postdoctoral opportunities where I can continue exploring exciting problems in machine learning. I’d love to bring my experience in federated learning, CV in remote sensing, and interdisciplinary research to a new team working on impactful projects.
+`<span style="color: blue">I’m currently looking for postdoctoral opportunities where I can continue exploring exciting problems in machine learning.</span> I’d love to bring my experience in federated learning, CV in remote sensing, and interdisciplinary research to a new team working on impactful projects.`
+
